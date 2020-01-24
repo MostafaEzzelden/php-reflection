@@ -1,0 +1,10 @@
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+
+
+package-lock.json
+composer.lock
+/storage
+/storage/*
